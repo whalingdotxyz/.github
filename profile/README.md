@@ -10,7 +10,7 @@ whaling.xyz is then entity behind the whaleboard project that aims to deliver a 
 ### About Whaling.xyz
 
 - [Website](https://whaling.xyz/)
-- [App](https://beta.whaling.xyz/)
+- [App](https://app.whaling.xyz/)
 
 ### Find us on...
 
